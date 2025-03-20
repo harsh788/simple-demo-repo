@@ -1,0 +1,1 @@
+Simple repository for demonstration purposes
